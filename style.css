@@ -1,0 +1,60 @@
+#image
+{
+    height:700px;
+    width:100%;
+    align-self: center;
+}
+#division
+{
+    background-color:#070F2B;
+    padding:200px;
+    border-color: #433D8B;
+    border-width: 10px;
+}
+#first
+{
+    color:#2E236C;
+    text-align:center;
+    
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 50px;
+
+}
+#second
+{
+    color:#433D8B;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 50px;
+    
+}
+#third
+{
+    color:#ebb810;
+    text-align: center;
+    font-family: "League Script", cursive;
+  font-weight: 700;
+  font-style: normal;
+    font-size:50px;
+}
+#fourth
+{
+    color:#C8ACD6;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+        font-size: 50px;
+    
+}
+
+html{
+    background:#070F2B;
+}
+img{
+    border:2px solid #2E236C;
+}
