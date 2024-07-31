@@ -51,6 +51,16 @@
         font-size: 50px;
     
 }
+#five
+{
+    color:#826F66;
+    text-align:right;
+    font-family: "League Script", cursive;
+  font-weight: 700;
+  font-style: normal;
+  font-size:30px;
+
+}
 
 html{
     background:#070F2B;
